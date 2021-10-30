@@ -13,4 +13,4 @@ Creation of a default selection, with CSS and JS we will customize it. Implement
 
 https://serg-by.github.io/select/
 
-![Logo](https://i.postimg.cc/PxJjr1X7/2021-10-30-193824.png)
+![Logo](https://i.postimg.cc/mrPrqJcc/2021-10-30-193824.jpg)
