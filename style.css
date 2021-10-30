@@ -40,6 +40,7 @@ label {
   justify-content: space-between;
   width: 200px;
   border: 1px solid #887ea5;
+  background-color: #ffffff;
   padding: 8px 16px;
   cursor: pointer;
   user-select: none;
@@ -74,6 +75,7 @@ label {
   top: 40px;
   border-radius: 4px;
   border: 1px solid #5f2eea;
+  background-color: #ffffff;
   width: 100%;
   list-style: none;
   /* max-height: 200px; */
