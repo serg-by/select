@@ -3,6 +3,8 @@
 Custom select css js. 
 Creation of a default selection, with CSS and JS we will customize it. Implemented keyboard control.
 
+Пользовательский выбор css js.
+Создание элемента по умолчанию, которое мы настроим с помощью CSS и JS. Реализовано управление с клавиатуры.
 
 ## Authors
 
